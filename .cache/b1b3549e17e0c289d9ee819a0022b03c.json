@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./app.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <title>Parcel Vue</title>\n</head>\n<body>\n    <div id=\"app\">\n        <h1>Hello Parcel</h1>\n    </div>\n\n    <script src=\"/dist/cbfa1dc13b6e434c96084a05c9476e03.js\"></script>\n</body>\n</html>"},"hash":"b3d58b79c256242190571322eec45360"}
